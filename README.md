@@ -94,7 +94,7 @@ Driven and detail-oriented Associate Data Scientist with over 4 years of experie
 
 ---
 
-## Certifications (Optional)
+## Certifications 
 
 - **Microsoft Certified - Azure AI Fundamentals** - *Microsoft*, *Oct 2024*
 
