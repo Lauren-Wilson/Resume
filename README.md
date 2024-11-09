@@ -67,9 +67,9 @@ Driven and detail-oriented Associate Data Scientist with over 4 years of experie
 - Outstanding Project Non-Thesis Capstone Award 2021, University of Texas - San Antonio, Alvarez College of Business
 - Graduated Magna Cum Laude
 
-  **Bachelor of Business Administration in Management Information Systems**  
-  *University of Texas - San Antonio*  
-  *Aug 2018 – Aug 2020*
+**Bachelor of Business Administration in Management Information Systems**  
+*University of Texas - San Antonio*  
+*Aug 2018 – Aug 2020*
 
 - Relevant Coursework: Introduction to Programming, System Design, Public Speaking
 - Graduated Cum Laude
