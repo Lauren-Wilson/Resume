@@ -18,7 +18,7 @@ Driven and detail-oriented Associate Data Scientist with over 4 years of experie
 *Nov 2023 – Present*
 
 - Developed and managed high-visibility projection models, implementing a flagging system that provided actionable indicators weeks ahead of project deadlines.
-- Partnered with Sales and Marketing to establish a data-driven segmentation system for enterprise-wide use, now accessible in the Data Store for streamlined insights
+- Partnered with Sales and Marketing to establish a data-driven segmentation system for enterprise-wide use, now accessible in the Data Store for streamlined insights.
 
 **Data Science Instructor**  
 *Code Up*  
@@ -35,14 +35,14 @@ Driven and detail-oriented Associate Data Scientist with over 4 years of experie
 
 - Leveraged advanced feature engineering and data munging on 1B+ rows to identify discrepancies and uncover insights, leading to a 50% increase in engagement for optimized variants in an A/B tested burnout experiment.
 - Enhanced a hybrid recommendation engine by integrating DBT for data standardization and validation, ensuring reliable data quality in production while rapidly upskilling on DBT under tight deadlines.
-- Delivered technical presentations on a logic-based recommendation engine for burnout, utilizing customer surveys and app behavioral data, to 100+ attendees in monthly company-wide demos. This resulted in a 10% increase in stakeholder involvement, securing additional resources and expanding the project as more teams adopted the survey and suggested new burnout indicators
+- Delivered technical presentations on a logic-based recommendation engine for burnout, utilizing customer surveys and app behavioral data, to 100+ attendees in monthly company-wide demos. This resulted in a 10% increase in stakeholder involvement, securing additional resources and expanding the project as more teams adopted the survey and suggested new burnout indicators.
 
 **Operations Administrative Assistant**  
 *E Controls*  
 *San Antonio, Texas*  
 *Nov 2021 - Mar 2022*
 
-- Developed an R Shiny app to automate production floor audits, reducing audit time by 50%—from 2 hours to just 30 minutes. The app replaced inefficient pen-and-paper methods, enabling real-time data entry and direct upload to a dashboard, which allowed management to track audit progress and quantify results month-over-month, improving oversight and accountability
+- Developed an R Shiny app to automate production floor audits, reducing audit time by 50%—from 2 hours to just 30 minutes. The app replaced inefficient pen-and-paper methods, enabling real-time data entry and direct upload to a dashboard, which allowed management to track audit progress and quantify results month-over-month, improving oversight and accountability.
 - Championed a marketing campaign to promote new safety protocols using a memorable acronym, integrated into the production facility’s safety training program and prominently displayed on the production floor, ensuring adherence to safety guidelines among team members.
 
 
@@ -53,7 +53,7 @@ Driven and detail-oriented Associate Data Scientist with over 4 years of experie
 
 - Leveraged advanced feature engineering and data munging on 1B+ rows to identify discrepancies and uncover insights, leading to a 50% increase in engagement for optimized variants in an A/B tested burnout experiment.
 - Enhanced a hybrid recommendation engine by integrating DBT for data standardization and validation, ensuring reliable data quality in production while rapidly upskilling on DBT under tight deadlines.
-- Delivered technical presentations on a logic-based recommendation engine for burnout, utilizing customer surveys and app behavioral data, to 100+ attendees in monthly company-wide demos. This resulted in a 10% increase in stakeholder involvement, securing additional resources and expanding the project as more teams adopted the survey and suggested new burnout indicators
+- Delivered technical presentations on a logic-based recommendation engine for burnout, utilizing customer surveys and app behavioral data, to 100+ attendees in monthly company-wide demos. This resulted in a 10% increase in stakeholder involvement, securing additional resources and expanding the project as more teams adopted the survey and suggested new burnout indicators.
 
 ---
 
@@ -79,8 +79,8 @@ Driven and detail-oriented Associate Data Scientist with over 4 years of experie
 ## Skills
 
 - **Technical Skills**: Python, SQL, R, GIT, BASH, HTML, CSS
-- **Languages**: [English (Fluent), Spanish (Intermediate)]
-- **Other Skills**: [Toastmasters Member Since 2024
+- **Languages**: English (Fluent), Spanish (Intermediate)
+- **Other Skills**: Toastmasters Member Since 2024
 
 ---
 
