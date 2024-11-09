@@ -1,6 +1,6 @@
 # Lauren Wilson
 
-**[linked.lauren@gmail.com](mailto:linked.lauren@gmail.com)** | **[LinkedIn](linkedin.com/in/alaurenwilson)** | **[GitHub](github.com/Lauren-Wilson )**
+**[linked.lauren@gmail.com](mailto:linked.lauren@gmail.com)** | **[LinkedIn](https://linkedin.com/in/alaurenwilson)** | **[GitHub](https://github.com/Lauren-Wilson )**
 
 ---
 
