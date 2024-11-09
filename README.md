@@ -6,7 +6,7 @@
 
 ## Summary
 
-Driven and detail-oriented Associate Data Scientist with over 4 years of experience in business analytics and process automation. Skilled in machine learning, A/B testing, and productionalized pipelines, with a proven ability to quantify campaign results and drive business improvements. Passionate about upskilling small businesses and advancing cloud-based solutions to enhance operational efficiency.
+Driven and detail-oriented data professional with over 4 years of experience in business analytics and process automation. Skilled in machine learning, A/B testing, and productionalized pipelines, with a proven ability to quantify campaign results and drive business improvements. Passionate about upskilling small businesses and advancing cloud-based solutions to enhance operational efficiency.
 
 ---
 
