@@ -6,7 +6,7 @@
 
 ## Summary
 
-Driven and detail-oriented data professional with over 4 years of experience in business analytics and process automation. Skilled in machine learning, A/B testing, and productionalized pipelines, with a proven ability to quantify campaign results and drive business improvements. Passionate about upskilling small businesses and advancing cloud-based solutions to enhance operational efficiency.
+Driven and detail-oriented data professional with over 4 years of experience in business analytics, process automation, and data science. Skilled in machine learning, A/B testing, and cloud pipelines, with a proven ability to quantify campaign results and drive business improvements with corporate quality presentations of results. Passionate about upskilling small businesses and utilizing cloud-based solutions to enhance operational efficiency.
 
 ---
 
@@ -17,8 +17,10 @@ Driven and detail-oriented data professional with over 4 years of experience in 
 *Remote*  
 *Nov 2023 – Present*
 
-- Developed and managed high-visibility projection models, implementing a flagging system that provided actionable indicators weeks ahead of project deadlines.
-- Partnered with Sales and Marketing to establish a data-driven segmentation system for enterprise-wide use, now accessible in the Data Store for streamlined insights.
+- Persuaded actuarial leadership to adopt data-driven forecasting, replacing static assumptions through an interactive report that clearly visualized 15%+ forecast improvement on SELF+1 plans, influencing a shift in actuarial methodology by communicating insights using clear visual storytelling (Power BI, Python, Time Series Forecasting, Model Evaluation)
+- Developed Excel-driven adjustment pipeline enabling Sales, Product, and Actuary teams to input real-time adjustments and influence models via manual uploads processed by Azure Machine Learning and Data Factory pipelines (Python Functions, Python Packages, GIT)
+- Led demographic segmentation model development, enriching internal data with U.S. Census block-group features; deployed K-means clustering and used LLMs to generate executive-ready cluster narratives for 100+ new member personas (US Census API, Python, Machine Learning, Model Tuning, MLOps)
+
 
 **Data Science Instructor**  
 *Code Up*  
