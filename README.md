@@ -99,7 +99,7 @@ Driven and detail-oriented data professional with over 4 years of experience in 
 ## Certifications 
 
 - **Microsoft Certified - Azure AI Fundamentals** - *Microsoft*, *Oct 2024*
-- - ** Microsoft Certified - Power BI Data Analysts Associate** - *Microsoft*, *Dec 2024*
+- ** Microsoft Certified - Power BI Data Analysts Associate** - *Microsoft*, *Dec 2024*
 
 ---
 
