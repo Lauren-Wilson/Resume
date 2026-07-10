@@ -92,15 +92,15 @@ Driven and detail-oriented data professional with over 4 years of experience in 
 *Applied deep learning techniques using YOLOv4 transfer learning to address business challenges, developing a model that achieved 80%+ accuracy in detecting shelf stockouts across diverse product aisles, including foreign-language grocery shelves and smaller beauty aisle spaces. Deployed the model on a Flask front end, allowing users to upload images for real-time shelf detection with bounding boxes and accuracy metrics. This project, which demonstrated YOLOv4’s superiority over other models, earned the Outstanding Non-Thesis Capstone Award from my university.*
 
 - Used Python and Google Collab
-- Awarded Certificate plus $2,000 cash prize
+- Awarded Certificate plus $2,000 stipend
 
 ---
 
 ## Certifications 
-
+- **DP-100 - Azure Data Scientist** - *Microsoft*, *June 2026*
 - **Microsoft Certified - Azure AI Fundamentals** - *Microsoft*, *Oct 2024*
 - **Microsoft Certified - Power BI Data Analysts Associate** - *Microsoft*, *Dec 2024*
 
 ---
 
-- **Volunteer Work**: San Antonio Food Bank, Soldier's Angels
+- **Volunteer Work**: San Antonio Food Bank, Soldier's Angels, Toastmasters
